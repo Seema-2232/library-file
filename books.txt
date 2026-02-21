@@ -1,0 +1,5 @@
+Python for Beginners
+Machine Learning Basics
+Deep Learning with Python
+Data Science Handbook
+Artificial Intelligence Concepts
